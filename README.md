@@ -1,1 +1,2 @@
 # odin-recipes
+# I will be using html to create a basic recipe website. the website will only consist of a main index page which is a homepage. the homepage will consist of links to a few different recipes.... just a fyi it is gonna be an ugly ass website.
